@@ -1,0 +1,29 @@
+/**
+ * Styles for Query Test
+ */
+
+.wrap {
+	max-width: 800px;
+}
+
+.col-left,
+.col-right {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.defaults,
+.query {
+	margin: 0 0 25px;
+	padding: 0 0 15px;
+	border-bottom: 1px solid #ddd;
+}
+
+textarea {
+	width: 100%;
+}
+
+pre {
+	margin: 0;
+}
